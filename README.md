@@ -1,4 +1,4 @@
-# [KaplanStory](https://bigcooki3.github.io/KaplanStory/)
+# [KaplanStory](https://bigcooki3.github.io/KaplanStory-game/)
 A short Overwatch fangame made in Unity, about Jeff Kaplan.
 
 This game was made by myself and my best friend Kevin La, for Dinoflask's Kaplanniversary Giveaway contest. All assets and scripts were made from scratch using Photoshop and C#, with the exception of character concepts and audio (it's a fangame). We placed runner-up!
