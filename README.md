@@ -7,3 +7,5 @@ The bulk of the work was completed in just four days, with this being our first 
 [Click here to play it!](https://biggestcookie.github.io/KaplanStory-game/) Also if you're having trouble beating the final boss on flawless, [here's a video of it being completed.](https://www.twitch.tv/videos/159712858)
 
 This project was made in Unity version 5.6.2.
+
+![Game Preview](https://i.imgur.com/7ZBRIL3.png)
